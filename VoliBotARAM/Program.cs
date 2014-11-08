@@ -16,7 +16,7 @@ namespace VoliBotARAM
     {
         static string[] assasins = new string[] { "Akali", "Diana", "Evelynn", "Fizz", "Katarina", "Nidalee" };
         static string[] adtanks = new string[] { "Braum", "DrMundo", "Garen", "Hecarim", "Jarvan IV", "Nasus", "Skarner", "Volibear", "Yorick", "Gnar" };
-        static string[] adcs = new string[] { "Ashe", "Caitlyn", "Corki", "Draven", "Ezreal", "Gankplank", "Graves","Jinx", "KogMaw", "Lucian", "MissFortune", "Quinn", "Sivir", "Thresh", "Tristana", "Tryndamere", "Twitch", "Urgot", "Varus", "Vayne", "Kalista" };
+        static string[] adcs = new string[] { "Ashe", "Caitlyn", "Corki", "Draven", "Ezreal", "Gankplank", "Graves", "Jinx", "KogMaw", "Lucian", "MissFortune", "Quinn", "Sivir", "Thresh", "Tristana", "Tryndamere", "Twitch", "Urgot", "Varus", "Vayne", "Kalista" };
         static string[] mages = new string[] { "Ahri", "Anivia", "Annie","Azir", "Brand", "Cassiopeia", "Galio", "Gragas", "Heimerdinger", "Janna", "Karma", "Karthus", "LeBlanc", "Lissandra", "Lulu", "Lux", "Malzahar", "Morgana", "Nami", "Nunu", "Orianna", "Ryze", "Sona", "Soraka", "Swain", "Syndra", "Taric", "TwistedFate", "Veigar","Vel'Koz", "Viktor", "Xerath", "Ziggs", "Zilian", "Zyra" };
         static string[] hybrids = new string[] { "Kayle", "Teemo" };
         static string[] aptanks = new string[] { "Alistar", "Amumu", "Blitzcrank", "ChoGath", "Leona", "Malphite", "Maokai", "Nautilus", "Rammus", "Sejuani", "Shen", "Singed", "Zac" };
